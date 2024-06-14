@@ -1,5 +1,5 @@
 # DS<sup>3</sup>FN
-Public source code of DS<sup>3</sup>FN (Lightweight deep network for aerial object detection based on dynamic sampling and scale sequence fusion)
+Public source code of DS<sup>3</sup>FN (DS<sup>3</sup>FN: A lightweight deep network for aerial object detection based on dynamic sampling and scale sequence fusion)
 ## Recommended environment
 The environment for our experiment:
 <pre><code>
